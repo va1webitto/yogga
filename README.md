@@ -1,16 +1,41 @@
-# yogga
+# ✨ Yogga
 
-A new Flutter project.
+## ✨ Описание
+Yoga App — это приложение для занятий йогой. Оно содержит список поз (асан) и встроенные таймеры, чтобы сделать практику удобнее и эффективнее.
 
-## Getting Started
+## ⚡ Установка
 
-This project is a starting point for a Flutter application.
+1. Клонируйте репозиторий:
+   ```sh
+   https://github.com/va1webitto/yogga.git
+   cd yogga
+   ```
 
-A few resources to get you started if this is your first Flutter project:
+2. Установите зависимости:
+   ```sh
+   flutter pub get
+   ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🌟 Запуск
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Запустите приложение на симуляторе или устройстве:
+   ```sh
+   flutter run
+   ```
+
+## 🚀 Сборка APK
+
+Для сборки релизного APK:
+```sh
+flutter build apk --release
+```
+
+## 💡 Тесты
+Для запуска тестов:
+```sh
+flutter test
+```
+
+---
+
+💪 Улучшайте свою практику йоги с Yogga! 🌟
